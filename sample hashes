@@ -1,0 +1,8 @@
+NOTE: Copy hashes and paste them under "crackhash" via main.py
+NOTE: if you would like to try your own password. use this link :https://timestampgenerator.com/generate-hash/sha256 type in a plain text password and then hit submit. the password will be hashed via sha256 and can be copy and pasted to see if the hashes match up with the lists.
+(Format) : Username, password hash
+
+johndoe, 77af778b51abd4a3c51c5ddd97204a9c3ae614ebccb75a606c3b6865aed6744e
+marty, ef92b778bafe771e89245b89ecbc08a44a4e166c06659911881f383d4473e94f
+sam12, 65e84be33532fb784c48129675f9eff3a682b27168c0ea744b2cf58ee02337c5
+mike v, 55c05ceb08f50fb400ab7e57548891b660b3d08ffb40bf9e540112ded25cd7a4
